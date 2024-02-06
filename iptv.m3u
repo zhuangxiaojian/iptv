@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,CCTV1-综合
 http://122.137.199.142:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1,CCTV2-财经
+#EXTINF:-1,CCTV2-财经 1
 http://122.137.199.142:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1,CCTV3-综艺
 http://122.137.199.142:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -72,9 +72,9 @@ http://122.137.199.142:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid
 #EXTINF:-1,松原
 http://122.137.199.142:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
 
-#EXTINF:-1,CCTV1-综合
+#EXTINF:-2,CCTV1-综合
 http://112.194.128.146:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV2-财经
+#EXTINF:-1,CCTV2-财经 2
 http://112.194.128.146:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV3-综艺
 http://112.194.128.146:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
