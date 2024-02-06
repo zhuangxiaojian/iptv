@@ -72,7 +72,7 @@ http://122.137.199.142:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid
 #EXTINF:-1,松原
 http://122.137.199.142:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
 
-#EXTINF:-2,CCTV1-综合
+#EXTINF:-1,CCTV1-综合
 http://112.194.128.146:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV2-财经
 http://112.194.128.146:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
